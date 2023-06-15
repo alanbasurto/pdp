@@ -1,0 +1,18 @@
+{
+    "map_for_groups": {
+      "grp-gcp-central-tech-gcp-resources-developer":{
+        "domain": "people.com",
+        "description": "group for new project in gcp",
+        "members": [
+          "luis.mendez@peoplefun.com"
+        ]
+      },
+      "grp-gcp-central-tech-gcp-vpc-non-prod-developer":{
+        "domain": "people.com",
+        "description": "group for new project in gcp",
+        "members": [
+          "luis.mendez@peoplefun.com"
+        ]
+      }
+    }
+  }
