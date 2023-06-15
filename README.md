@@ -1,2 +1,2 @@
 # pdp
-This is a personal record to store different tasks from the PDP
+This is a personal repo to store different tasks from the PDP
