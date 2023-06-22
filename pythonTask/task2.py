@@ -4,7 +4,7 @@ from datetime import datetime
 def main():
     filename="thefile.txt"
     filesize=os.path.getsize(filename)
-    if filesize/1048576> .10:
+    if filesize/1048576> 100:
         now = datetime.now()
         newfilename = filename.split(".")[0] + now.strftime("%d%m%Y-%H:%M:%S") + "."+filename.split(".")[1]
         os.rename(filename,newfilename)
